@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Lagos Updates</title>
+        <link>https://github.com/rKalb/conductor-playground</link>
+        <description>Most recent changes with links to updates.</description>
+        <language>en</language>
+        <item>
+            <title>Lagos 1.0.0</title>
+            <pubDate>Thu, 12 Feb 2026 19:38:33 +0000</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/rKalb/lagos-releases/releases/download/v1.0.0/Lagos-1.0.0-beta.dmg"
+                sparkle:edSignature="Eyn2c057yP/m34G6BgdehAb2xnC8+jm58VzIq1yaBjktAiDUf0xmFEdWdMRtL3lwd+BL423Q11dkoehWkFPXAw=="
+                length="11742066"
+                type="application/octet-stream"
+            />
+        </item>
+        <item>
+            <title>Lagos 1.0.0</title>
+            <pubDate>Thu, 12 Feb 2026 22:57:42 +0000</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/rKalb/lagos-releases/releases/download/v1.0.0/Lagos-1.0.0-beta.dmg"
+                sparkle:edSignature="83MVpOowzFVH2/DoNOMX8EEbM7rI8zNHdYZBCtwK8cKjCnq9HFTA1ZXkct9LwSaBHwgoPQJjQMcbayHBzi8vBg=="
+                length="11743099"
+                type="application/octet-stream"
+            />
+        </item>
+        <item>
+            <title>Lagos 1.0.0</title>
+            <pubDate>Thu, 12 Feb 2026 23:09:18 +0000</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/rKalb/lagos-releases/releases/download/v1.0.0/Lagos-1.0.0-beta.dmg"
+                sparkle:edSignature="0dt7fExfpdAYARBmB8BOoGFDZo0ds/COs4B5z1OeFs/7rExwXxymP/0Kw24BqBrCbqBUg+MozRHCIldiXy+lAA=="
+                length="11743245"
+                type="application/octet-stream"
+            />
+        </item>
+    </channel>
+</rss>
