@@ -44,5 +44,31 @@
                 type="application/octet-stream"
             />
         </item>
+        <item>
+            <title>Lagos 1.0.0</title>
+            <pubDate>Wed, 18 Feb 2026 00:40:43 +0000</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/rKalb/lagos-releases/releases/download/v1.0.0/Lagos-1.0.0-beta.dmg"
+                sparkle:edSignature="1PEWahj656uIicYYGpz/5Nx1OZNFwTwD72umk8831iOsN1BZm+c1bCR0SPH9CjlLbOHI8ksBcn9NIFLhShjiBA=="
+                length="12691049"
+                type="application/octet-stream"
+            />
+        </item>
+        <item>
+            <title>Lagos 1.1.0</title>
+            <pubDate>Wed, 18 Feb 2026 00:52:31 +0000</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/rKalb/lagos-releases/releases/download/v1.1.0/Lagos-1.1.0-beta.dmg"
+                sparkle:edSignature="FnN/2S1YDSUX5ev0WzAK388aWxz9/Yoz5X36E4THBKOey2e2DjUSqlOUjEwnf6Hp6iuh+0G8wLGhDctH+MmIBw=="
+                length="12694094"
+                type="application/octet-stream"
+            />
+        </item>
     </channel>
 </rss>
