@@ -83,5 +83,18 @@
                 type="application/octet-stream"
             />
         </item>
+        <item>
+            <title>Lagos 1.3.0</title>
+            <pubDate>Tue, 24 Feb 2026 07:06:22 +0000</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/rKalb/lagos-releases/releases/download/v1.3.0/Lagos-1.3.0-beta.dmg"
+                sparkle:edSignature="0S0YDyMKAd2sWGvjRvoapKRyPiukuFpvAyrqBOKodSrPz/U2E0Zr62t6V6wgULm4B6MyY1HX9BY1UULaJh9UBw=="
+                length="12792750"
+                type="application/octet-stream"
+            />
+        </item>
     </channel>
 </rss>
